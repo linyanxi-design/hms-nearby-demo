@@ -34,10 +34,10 @@
 <img src="https://github.com/HMS-Core/hms-nearby-demo/blob/master/NearbyStores/Result_4.jpg" width = 30% height = 30% /> 
 
 >说明：本demo为了方便用户使用，已经把将相应的账号认证文件直接置于代码之中。如果需要更新自己的账号认证文件，您可以按照以下步骤操作：
-1. 成为开发者。注册[华为帐号](https://developer.huawei.com/consumer/cn/)。
-2. 创建应用。参考[开发准备](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/config-agc-0000001050040578)创建应用并开启Nearby Service。
-3. 创建服务帐户密钥并下载JSON文件。登录HUAWEI Developer，单击“管理中心”，进入“ HMS API服务>凭证”，选择已创建的应用程序项目，将光标移至“创建凭据”，然后单击“服务帐户密钥”。输入服务帐户密钥的信息，然后单击“创建并下载JSON”以下载JSON文件。
-4. 替换代码中JSON文件。具体路径为NearbyStores\app\src\main\assets。
+>1. 成为开发者。注册[华为帐号](https://developer.huawei.com/consumer/cn/)。
+>2. 创建应用。参考[开发准备](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/config-agc-0000001050040578)创建应用并开启Nearby Service。
+>3. 创建服务帐户密钥并下载JSON文件。登录HUAWEI Developer，单击“管理中心”，进入“ HMS API服务>凭证”，选择已创建的应用程序项目，将光标移至“创建凭据”，然后单击“服务帐户密钥”。输入服务帐户密钥的信息，然后单击“创建并下载JSON”以下载JSON文件。
+>4. 替换代码中JSON文件。具体路径为NearbyStores\app\src\main\assets。
 
 ## 环境要求
 推荐使用Android Studio 3.0及以上版本。
