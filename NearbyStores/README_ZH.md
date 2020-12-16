@@ -10,7 +10,7 @@
  * [授权许可](#授权许可)
 
 ## 简介
-本Demo展示了Nearby Service中基于信标的消息发布和订阅功能。
+本Demo展示了Nearby Service中基于信标的消息发布和订阅。
 1. 通过蓝牙功能使手机成为一个信标；
 2. 通过管理该信标，商店、景区、机场等附近的设备可以订阅包含商品介绍、优惠信息、新闻、通知等信息的信标消息。
 更多API信息，请参阅[API参考](https://developer.huawei.com/consumer/cn/doc/HMSCore-References/common-interface-0000001050151532).
